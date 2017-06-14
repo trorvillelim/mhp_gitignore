@@ -1,0 +1,11 @@
+.ebextensions
+.vscode
+CodeDeploy
+default.json
+deployment.txt
+deployment.json
+deployment_nodejs.txt
+deployment_status.txt
+.codedeployignore
+.gitignore
+mhpCertificates_prod.p12
